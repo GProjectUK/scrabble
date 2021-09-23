@@ -9,3 +9,5 @@ PHP Version: 7.4
 5. Make any changes deemed beneficial
 6. Create a PR in your forked personal REPO
 7. Don't create a PR to this REPO
+
+// appling changes
