@@ -1,3 +1,10 @@
+<html>
+
+<head>
+<title></title>
+</head>
+<body>
+
 <?php
 
 
@@ -143,7 +150,7 @@ class Scrabble
     public function removeNonAlphaCharacters(string $string)
     {
         /**
-         * todo replace this with a method to stip non alpha chars
+         * todo removeNonAlphaCharacters(string $string)
          */
         return $string;
     }
@@ -259,3 +266,6 @@ class Scrabble
         $this->maxResultsDisplay = $maxResultsDisplay;
     }
 }
+
+</body>
+</html>
